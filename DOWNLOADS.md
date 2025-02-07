@@ -7,7 +7,7 @@ Welcome to the **Downloads** section of HuBiCEM. Here, you can download the **re
 ## 📄 Research Paper  
 You can download the full research paper here:  
 
-🔗 **[Download HuBiCEM Paper (PDF)](HuBiCEM-paper.pdf)**  
+🔗 **[Download HuBiCEM Paper (PDF)](https://hubicem.github.io/HuBiCEM-paper.pdf)**  
 
 ---
 
@@ -16,14 +16,14 @@ You can download the full research paper here:
 ### 🏗 **Training Script (`train.py`)**  
 Trains the HuBiCEM model based on developer sprint data.  
 
-📥 **[Download train.py](https://github.com/HuBiCEM/model)**  
+📥 **[Download train.py](https://github.com/HuBiCEM/model/blob/main/src/train.py)**  
 
 ---
 
 ### 🔄 **Prediction Script (`predict.py`)**  
 Predicts project completion time and cost using trained data.  
 
-📥 **[Download predict.py](https://github.com/HuBiCEM/model)**  
+📥 **[Download predict.py](https://github.com/HuBiCEM/model/blob/main/src/predict.py)**  
 
 ---
 

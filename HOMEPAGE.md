@@ -23,7 +23,7 @@ Here you can access all important files related to **HuBiCEM**:
 
 ## 📄 Research Paper
 You can download the full research paper here:  
-🔗 **[Download Paper (PDF)](link-to-paper.pdf)**  
+🔗 **[Download Paper (PDF)](https://hubicem.github.io/HuBiCEM-paper.pdf)**  
 
 ---
 
