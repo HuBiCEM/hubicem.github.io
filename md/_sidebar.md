@@ -1,0 +1,7 @@
+- [🏠 HOME](HOMEPAGE.md)
+- [📌 Model Details](MODEL.md)
+- [📊 Comparison with COCOMO](COMPARISON.md)
+- [📈 Results & Study](RESULTS.md)
+- [📥 Downloads](DOWNLOADS.md)
+- [📜 License](LICENSE)
+- [🔗 GitHub Repository](https://github.com/HuBiCEM/model)
